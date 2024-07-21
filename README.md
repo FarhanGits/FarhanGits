@@ -2,7 +2,7 @@
 <h3 align="center">Web Development Enthusiast</h3>
 
 
-- 👨‍💻 Bangkit Academy 2024 Batch 1 Cloud Computing Cohort
+- 👨‍🎓 Bangkit Academy 2024 Batch 1 Cloud Computing Graduate
 
 - 📫 How to reach me: **daffafarhan05@gmail.com**
 
