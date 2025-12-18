@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daffa Farhan Raharja</h1>
-<h3 align="center">Web Development Enthusiast</h3>
+<h3 align="center">Backend Development Enthusiast</h3>
 
 
 - 👨‍🎓 Bangkit Academy 2024 Batch 1 Cloud Computing Graduate
